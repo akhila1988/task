@@ -1,3 +1,4 @@
 Add config --global user.name "Akhila"
 Add config --global user.email "akhila.a88@gmail.com"
 git clone "https://github.com/akhila88/task.git"
+git status
